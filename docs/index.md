@@ -1,7 +1,7 @@
 
 ## Avertissement :
 
-[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM-1NSI-2021/2022"){: align=left width=10%}](https://teams.microsoft.com/l/team/19%3asG1oNl14DTd40cjgqxwpYChIRicdveWklGmxU3s7zHs1%40thread.tacv2/conversations?groupId=8dbbb2d2-7711-4619-8174-1f4748cb0f58&tenantId=3a7994d7-1ce5-426f-a6e3-eee0616e2a6c){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "team-1nsi-20212022@ecmorlaix.fr"){: align=right width=10%}](mailto:team-1nsi-20212022@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mur qui suivent l'enseignement de spécialité Numérique et Sciences Informatiques.
+[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM-1NSI-2022/2023"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "team-1nsi-20222023@ecmorlaix.fr"){: align=right width=10%}](mailto:team-1nsi-20222023@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe des élèves de première du lycée Notre Dame du Mur qui suivent l'enseignement de spécialité Numérique et Sciences Informatiques.
 <!-- 
 ### Autres liens du groupe :
 
@@ -15,7 +15,7 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Les 02 et 09/09 :
+## Du 02 au 09/09 :
 - Accueil, [présentation de la matière](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}, -> ==**remplir** une fiche d'informations== ;
 
 - Visionnage de "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"}, -> ==**relever** les mots et dates clefs== :  
