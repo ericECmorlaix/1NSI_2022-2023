@@ -19,12 +19,7 @@ docs_dir: docs
 nav: 
     - Cahier de texte : index.md
     - Présentation NSI : http://si.lycee.ecmorlaix.fr/nsi
-    # - Les notebook jupyter :
-    #   - Découverte : decouverte-notebook.ipynb
-    #   - Markdown : MarkDown-Le_BN_pour_rapporter.ipynb
-    #   - HTML : HTML-Le_BN_pour_multimedier.ipynb
-    #   - LaTeX : LaTeX-Le_BN_pour_formuler.ipynb
-    #   - Calcul : Arithmetique-Le_BN_pour_calculer.ipynb
+    
     - Histoire de l’informatique : histoire.md
     # - Données de base :
     #   - Numération binaire : Binaire-Le_BN_pour_coder.ipynb
@@ -36,7 +31,7 @@ nav:
         # - Bases de Programmation en Python3 : Programmation-Python3-Quelques_bases.ipynb
     - Environnement :
         - GitHub+MarkDown+GitPod+VSC : github.md    
-      
+        - Les Notebook Jupyter : notebook.md
 
 # Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/
 theme:

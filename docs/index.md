@@ -14,8 +14,14 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
+## Le 12/09
+
+- Remédiation autour [du classeur numérique pour la NSI sur GitHub](./github) -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, autres questions... ?==
+
+- **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](./notebook) résumé des vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et le transmettre par [mail]==
+
 ***
-## Du 02 au 09/09 :
+## Du 02 au 09/09
 - Accueil, [présentation de la matière](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}, -> ==**remplir** une fiche d'informations== ;
 
 - Visionnage de "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"}, -> ==**relever** les mots et dates clefs== :  
