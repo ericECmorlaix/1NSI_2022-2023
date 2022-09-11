@@ -22,6 +22,7 @@
 
 ***
 ## Du 02 au 09/09
+
 - Accueil, [présentation de la matière](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}, -> ==**remplir** une fiche d'informations== ;
 
 - Visionnage de "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"}, -> ==**relever** les mots et dates clefs== :  
@@ -31,5 +32,5 @@
 
 - Initier [un classeur numérique pour la NSI sur GitHub](./github) -> ==**numériser** au format MarkDown votre fiche d'informations ainsi que votre listing compte rendu de la [vidéo](./histoire) et les transmettre par [mail]== ;
 
-- Découvrir [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un notebook jupyter résumé des vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
+- Découvrir [les bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](./notebook) résumé des vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples...==
 
