@@ -15,4 +15,4 @@ Voici ci dessous des exemples pour explorer quelques fonctionnalités :
 
 - [LaTeX](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/LaTeX-Le_BN_pour_formuler.ipynb){target=_blank .md-button} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/LaTeX-Le_BN_pour_formuler.ipynb){ .md-button .md-button--primary}
 
-- [Calculs](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Arithmetique-Le_BN_pour_calculer.ipynb){target=_blank .md-button} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Arithmetique-Le_BN_pour_calculer.ipynb){ .md-button .md-button--primary}
+- [Arithmetique](https://nbviewer.org/urls/ericecmorlaix.github.io/bn/Arithmetique-Le_BN_pour_calculer.ipynb){target=_blank .md-button} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/bn/Arithmetique-Le_BN_pour_calculer.ipynb){ .md-button .md-button--primary}
