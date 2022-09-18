@@ -16,6 +16,8 @@
 
 ## Le 19/09
 
+- Découvrir comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+
 <!-- - Synthèse sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){ .md-button .md-button--primary} -->
 
 ## Du 12/09 au 16/09
