@@ -14,7 +14,11 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-## Le 12/09
+## Le 19/09
+
+- Synthèse sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){ .md-button .md-button--primary}
+
+## Du 12/09 au 16/09
 
 - Remédiation autour [du classeur numérique pour la NSI sur GitHub](./github) -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, autres questions... ?==
 
