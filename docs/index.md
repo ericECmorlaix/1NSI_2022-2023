@@ -15,30 +15,56 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 22/09
+## Les 22 et 23/09
 
-- Synthèse sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){ .md-button .md-button--primary}
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){ .md-button .md-button--primary}
+
+=== "TRAVAIL À FAIRE"
+
+    - **rendre** par [mail] votre [notebook jupyter](./notebook) mémo des vos apprentissages en Python ;
+    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
+    - **finir les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){target=_blank}
+    - **lire et faire** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
+
 
 ***
 ## Le 19/09
 
-- Découvrir comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+=== "CONTENU DE SÉANCE"
+
+    - Découvrir comment représenter un entier positif en [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){target=_blank} [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){ .md-button .md-button--primary}
+
+=== "TRAVAIL À FAIRE"
+
+    - **rendre** par [mail] votre [notebook jupyter](./notebook) mémo des vos apprentissages en Python ;
+    - **développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} ;
+    - **finir les activités du notebook [binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb){target=_blank}    
 
 ***
 ## Du 12/09 au 16/09
 
-- Remédiation autour [du classeur numérique pour la NSI sur GitHub](./github) -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, autres questions... ?==
+=== "CONTENU DE SÉANCE"
 
-- **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](./notebook) résumé des vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et le transmettre par [mail]==
+    - Remédiation autour [du classeur numérique pour la NSI sur GitHub](./github) -> ==dépôt public ou privé, structure des dossiers et personalisation et organisation du classeur, poids d'un [mail] avec PJ, autres questions... ?==
+
+    - **Poursuivre** l'apprentissage [des bases de la programmation en Python](https://fr.futurecoder.io/course/#IntroducingTheShell){:target="_blank"} -> ==**Rédiger** progressivement un [notebook jupyter](./notebook) résumé des vos apprentissages en Python (Séquences d'instructions, variable, entrée (input()), sortie (print()), alternative (if…: elif…: else…:), boucle (for), fonction, liste…) en l'illustrant avec des exemples et le transmettre par [mail]==
+
+=== "TRAVAIL À FAIRE"
+
+    - **rendre** par [mail] votre [notebook jupyter](./notebook) mémo des vos apprentissages en Python ;
 
 ***
 ## Du 02 au 09/09
+
 
 - Accueil, [présentation de la matière](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}, -> ==**remplir** une fiche d'informations== ;
 
 - Visionnage de "Petite histoire de l'informatique" une vidéo réalisée par l'[INRIA](https://www.inria.fr/fr){:target="_blank"}, -> ==**relever** les mots et dates clefs== :  
 <figure>
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/16udHcMYRFA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 - Initier [un classeur numérique pour la NSI sur GitHub](./github) -> ==**numériser** au format MarkDown votre fiche d'informations ainsi que votre listing compte rendu de la [vidéo](./histoire) et les transmettre par [mail]== ;
