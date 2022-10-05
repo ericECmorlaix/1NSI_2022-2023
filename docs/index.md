@@ -16,7 +16,8 @@
 
 
 ***
-Le 06/10
+
+## Le 06/10
 
 === "CONTENU DE SÉANCE"
 
@@ -31,8 +32,8 @@ Le 06/10
     - **Finir de développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} avec l'aide de [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
     - Se préparer pour un QCM le 07/10 sur la représentation binaire des nombres entiers et sur les bases de la programmation en Python.
     - **Relire** [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11) ;
-
-Le 03/10
+***
+## Le 03/10
 
 === "CONTENU DE SÉANCE"
 
