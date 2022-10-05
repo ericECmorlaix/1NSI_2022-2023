@@ -27,7 +27,7 @@ Le 06/10
 
     - **Finir** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
     - **Finir de développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} avec l'aide de [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
-    - 
+    - Se préparer pour un QCM le 07/10 sur la représentation binaire des nombres entiers et sur les bases de la programmation en Python.
 
 Le 03/10
 
