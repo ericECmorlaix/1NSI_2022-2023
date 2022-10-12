@@ -16,6 +16,27 @@
 
 
 ***
+## Les 13 et 14/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Correction des activités du notebook [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb)​ ;
+    - [ASCII_UTF8-Le_BN_pour_coder_les_caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb)
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary}
+    - [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb)
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
+
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
+    - **Finir de développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} avec l'aide de [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
+    
+***
+
+
+
 ## Le 10/10
 
 === "CONTENU DE SÉANCE"
