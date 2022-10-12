@@ -20,10 +20,10 @@
 
 === "CONTENU DE SÉANCE"
 
-    - Correction des activités du notebook [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb)​ ;
-    - [ASCII_UTF8-Le_BN_pour_coder_les_caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb)
+    - Correction des activités du notebook [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb){target=_blank}​ ;
+    - [ASCII_UTF8-Le_BN_pour_coder_les_caracteres](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb){ .md-button .md-button--primary}
-    - [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb)
+    - [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
 
     
@@ -43,7 +43,7 @@
 
     - **Visiter** dans l'atrium les ateliers de la Fête de la Science et en particulier ceux des Terminales NSI ;
 
-    - **Finir** les activités du notebook [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb)​ -> ==**Transmettre** le notebook complété par [mail]==
+    - **Finir** les activités du notebook [représentation hexadédimale d'une information binaire](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb)​{target=_blank}-> ==**Transmettre** le notebook complété par [mail]==
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Hexadecimal-Autre_BN_pour_coder.ipynb){ .md-button .md-button--primary}
 
     - **Finaliser** le reste du TAF...
