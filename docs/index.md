@@ -26,6 +26,12 @@
     - [Chaine-Le_BN_pour_traiter_les_textes_en_machine](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){ .md-button .md-button--primary}
 
+    - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank}
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRkvdtm7ybw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8bMNHR1PpLgkSs5-Bg6icsdxPGsklzai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
     
 
 === "TRAVAIL À FAIRE"
