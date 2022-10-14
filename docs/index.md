@@ -38,6 +38,11 @@
 
     - **Finir** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
     - **Finir de développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} avec l'aide de [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
+    - **Expérimenter** [Obsidian](https://obsidian.md/){target=_blank} et faire un comparatif avec une autre application comme : [notion](https://apps.apple.com/gb/app/notion-notes-projects-docs/id1232780281){target=_blank},
+     [drafts](https://apps.apple.com/gb/app/drafts/id1236254471){target=_blank},
+     [ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038){target=_blank},     
+     [bear](https://apps.apple.com/gb/app/bear/id1016366447){target=_blank},
+     [pretext](https://apps.apple.com/gb/app/pretext/id1347707000){target=_blank},
     
 ***
 
