@@ -1,4 +1,5 @@
 site/
 .vscode/
+.obsidian/
 docs/.ipynb_checkpoints/
 /.ipynb_checkpoints/

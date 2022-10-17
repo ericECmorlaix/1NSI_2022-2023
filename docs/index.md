@@ -14,8 +14,51 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
-
 ***
+## Le 17/10
+
+=== "CONTENU DE SÉANCE"
+
+    - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank} -> ==Synchroniser votre classeur déposé sur GitHup avec un coffre d'Obsidian localisé sur votre iPad et y apairer vos fichiers `note.ipynb` avec des `note.md` grace à jupytext dans Carnets== ;
+
+    ??? resume "Memo de procédure de synchronisation avec GitHub sur iPad"
+
+        Il y a une procédure spécifique pour Mobile (qui doit pouvoir s'appliquer également sur PC) :
+
+        - créer un dépôt sur GitHub (privé ou public) avec un petit README.md (c'est plus pratique) ;
+        - générer une clé d'identification sur GitHub <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
+        - créer un nouveau coffre dans Obsidian ;
+        - installer et activer le plugin "Obsidian Git" <https://github.com/denolehov/obsidian-git> ;
+        - renseigner les champs password/personal access token et username dans la configuration du plugin "Obsidian Git"
+        - puis depuis la palette de commande choisir `Obsidian Git: Clone an existing remote repo` et suivre les instructions...
+
+
+    ???+ tip "Comment se construire un second cerveau avec Obsidian en mode [Zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten)"
+
+        <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B9BLia6FN4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+        <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/upyTEnzqJwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+        <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/beCbmjygkAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRkvdtm7ybw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8bMNHR1PpLgkSs5-Bg6icsdxPGsklzai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les activités du notebook sur les [bases de la programmation en Python](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Programmation_Python-bases.ipynb){target=_blank} ;
+    - **Finir de développer** progressivement un script de conversion décimal vers binaire qui affiche un tableau tel que [là](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Binaire-Le_BN_pour_coder.ipynb#d%C3%A9cimal-%3E%3E%3E-binaire){target=_blank} avec l'aide de [la fonction `display()` pour afficher dans un notebook](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Display-Le_BN_pour_afficher.ipynb){target=_blank} ;
+    - **Expérimenter** [Obsidian](https://obsidian.md/){target=_blank} et faire un comparatif avec une autre application comme : [notion](https://apps.apple.com/gb/app/notion-notes-projects-docs/id1232780281){target=_blank},
+     [drafts](https://apps.apple.com/gb/app/drafts/id1236254471){target=_blank},
+     [ulysses](https://apps.apple.com/gb/app/ulysses/id1225571038){target=_blank},     
+     [bear](https://apps.apple.com/gb/app/bear/id1016366447){target=_blank},
+     [pretext](https://apps.apple.com/gb/app/pretext/id1347707000){target=_blank},
+    
+***
+
 ## Les 13 et 14/10
 
 === "CONTENU DE SÉANCE"
