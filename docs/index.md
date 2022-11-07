@@ -15,6 +15,10 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 07/11
+
+- [Un tutoriel qui présente et explore certaines fonctionnalités d'Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
+
 ## Le 17/10
 
 === "CONTENU DE SÉANCE"
