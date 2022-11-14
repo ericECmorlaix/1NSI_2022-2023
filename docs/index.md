@@ -15,6 +15,13 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Du 14 au 18/11
+
+- **Rejoindre** la classe sur la [KhanAcademy](https://fr.khanacademy.org/join/DPQJKCRG){target="_blank"} pour **suivre** l'activité [Introduction à HTML/CSS : réaliser des pages Web]{https://fr.khanacademy.org/computing/computer-programming/html-css} : ==**Constituer** progressivement une note, un memo personnel, résumé de vos apprentissages des langages HTML/CSS/JavaScript==
+
+- **Publier** un projet Web sur [Glitch](https://glitch.com/){target="_blank"} et [GitHub](https://github.com/){target="_blank"} à l'aide des langages [HTML/CSS/JavaScript](http://api.si.lycee.ecmorlaix.fr/APprentissageHtmlCss/){target="_blank"} : ==**Coller** les liens vers votre site et votre dépot dans votre memo HTML/CSS/JavaScript et **transmettre** le tout par [mail]==
+
+***
 ## Le 07/11
 
 - [Un tutoriel qui présente et explore certaines fonctionnalités d'Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}
