@@ -15,8 +15,24 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 05/12
 
-## Le 28/11
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse en écriture collective des travaux du trimestre : [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank} ;
+
+    - Découvrir le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb)​{target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
+
+=== "TRAVAIL À FAIRE"
+
+    - Finaliser les notes de synthèse et récupérer une copie au format MarkDown dans votre classeur numérique.
+    - Devoir Maison :
+        - **faire** les exercices d'[UTF-8](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb#Vers-l'UTF8-:){target=_blank}
+        -  **réaliser** un script pour [le chiffre de César](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Chaine-Le_BN_pour_traiter_les_textes_en_machine.ipynb){target=_blank}
+
+***
+## Du 28/11 au 02/12
 
 === "CONTENU DE SÉANCE"
 
@@ -26,7 +42,8 @@
 
 === "TRAVAIL À FAIRE"
 
-    - Finaliser les notes de synthèse et récupérer une copie au format MarkDown dans votre classeur numérique. 
+    - Finaliser les notes de synthèse et récupérer une copie au format MarkDown dans votre classeur numérique.
+    - Devoir Maison : **faire** les exercices d'[UTF-8](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ASCII_UTF8-Le_BN_pour_coder_les_caracteres.ipynb#Vers-l'UTF8-:)
 
 ***
 
