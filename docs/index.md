@@ -15,17 +15,34 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 05/01
+
+=== "CONTENU DE SÉANCE"
+
+    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} sprint 0 ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    - Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#kanban){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Kanban_ma_rue.md){ .md-button .md-button--primary}  
+
+=== "TRAVAIL À FAIRE"
+
+    - Remettre les travaux précédents (Tri, UTF-8, César) ;
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+
+
+
 ## Du 12 au 16/12
 
 === "CONTENU DE SÉANCE"
 
-    - **Parcourir** le notebook présentant [Les_types_construits](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Les_types_construits.ipynb)​{target=_blank} ;
+    - **Parcourir** le notebook présentant [Les_types_construits](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Les_types_construits.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Les_types_construits.ipynb){ .md-button .md-button--primary}
 
-    - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Fonctions_et_modularisation.ipynb)​{target=_blank} ;
+    - **Lire** et **faire** les activités du notebook [Fonctions_et_modularisation](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Fonctions_et_modularisation.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Fonctions_et_modularisation.ipynb){ .md-button .md-button--primary}
 
-    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb)​{target=_blank} ;
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
 
 === "TRAVAIL À FAIRE"
@@ -42,7 +59,7 @@
 
     - Synthèse en écriture collective des travaux du trimestre : [Solutions des notebook](https://codimd.apps.education.fr/YA8b-rxnQya0UHlQwZTMeA){target=_blank} ;
 
-    - Découvrir le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb)​{target=_blank} ;
+    - Découvrir le module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary}    
 
 === "TRAVAIL À FAIRE"
