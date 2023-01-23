@@ -13,13 +13,40 @@
 ![board](images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+***
+## Le 23/01
+
+=== "CONTENU DE SÉANCE"
+
+    - présentation orale des revues de mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    - **répondre** aux questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **faire** les activités du notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/Logique_Booleenne.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+
+=== "TRAVAIL À FAIRE"
+    
+    - Complément, exemples de réalisations de fonctions logiques avec des transistors, reconnaitre les fonctions simulées :
+
+        - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
+        - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
+        - <https://tinyurl.com/y4pmexnc>{target="_blank"} ;
+        - <https://tinyurl.com/yya89b6n>{target="_blank"} ;
+        - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
+        > Ces circuits utilisent des transistors bipolaires inventés en 1948.
+        > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
+
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
 ***
 ## Le 05/01
 
 === "CONTENU DE SÉANCE"
 
-    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} sprint 0 ;
+    - mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
     - Utiliser un tableau Kanban pour visualiser l'évolution du processus de développement d'un projet dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#kanban){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Kanban_ma_rue.md){ .md-button .md-button--primary}  
