@@ -20,9 +20,9 @@
 
     - présentation orale des revues de mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
-    - **répondre** aux questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
+    - **répondre** aux questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
-    - **faire** les activités du notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/Logique_Booleenne.ipynb){target=_blank} ;
+    - **faire** les activités du notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
 
