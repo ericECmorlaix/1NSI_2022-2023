@@ -14,17 +14,14 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 ***
-## Le 23/01
+## Le 26/01
 
 === "CONTENU DE SÉANCE"
 
-    - présentation orale des revues de mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
-    - **répondre** aux questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
-    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+    - **Correction** des questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){ .md-button .md-button--primary} ;
     - **faire** les activités du notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
-
 
 === "TRAVAIL À FAIRE"
     
@@ -37,6 +34,23 @@
         - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
         > Ces circuits utilisent des transistors bipolaires inventés en 1948.
         > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
+
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+
+***
+## Le 23/01
+
+=== "CONTENU DE SÉANCE"
+
+    - présentation orale des revues de mini-projet collectif [Dessiner_ma_rue](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb){ .md-button .md-button--primary}
+    
+    
+=== "TRAVAIL À FAIRE"
+    
+    - **répondre** aux questions du document [Fonction Logique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ExerciceRechercheFonctionLogique.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
     - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
