@@ -14,7 +14,7 @@
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 ***
-## Le 26/01
+## Les 26 et 27/01
 
 === "CONTENU DE SÉANCE"
 
@@ -25,7 +25,14 @@
 
 === "TRAVAIL À FAIRE"
     
-    - Complément, exemples de réalisations de fonctions logiques avec des transistors, reconnaitre les fonctions simulées :
+    - **Revoir** les [Opérateurs booléenns avec futurecoder.io](https://futurecoder.forge.aeif.fr/course/#toc){target=_blank} ;
+
+    - **Faire** les exercices pratiques :
+        - [Autour des booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-autour_des_booleens/sujet/){target=_blank} ;
+        - [Opérateurs booléens](https://e-nsi.forge.aeif.fr/pratique/N0/200-operateurs_booleens/sujet/){target=_blank} ;
+        - [Années bissextiles](https://e-nsi.forge.aeif.fr/pratique/N0/200-bissextile/sujet/){target=_blank} ;
+
+    - Complément, exemples de réalisations de fonctions logiques avec des transistors, **reconnaitre** les fonctions simulées :
 
         - <https://tinyurl.com/y6ca4dwn>{target="_blank"} ;
         - <https://tinyurl.com/y62j9dxj>{target="_blank"} ;
@@ -34,7 +41,8 @@
         - <https://tinyurl.com/y56od8rh>{target="_blank"}...  
         > Ces circuits utilisent des transistors bipolaires inventés en 1948.
         > [Aujourd'hui le transistor MOS constitue, par sa simplicité de fabrication et ses performances, l'élément de base des circuits intégrés](https://openclassrooms.com/fr/courses/5439146-faites-vos-premiers-pas-dans-le-monde-de-l-electronique-numerique/5693601-implementez-une-porte-logique-a-base-de-transistors-mos)...
-
+    
+    
     - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
 
