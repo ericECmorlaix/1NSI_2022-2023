@@ -13,6 +13,24 @@
 ![board](images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+
+***
+## Les 26 et 27/01
+
+=== "CONTENU DE SÉANCE"
+
+    - **faire** les activités du notebook [BBCmicrobit-Un_BN_Pour_MicroPython](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **transmettre** le notebook [Logique Booleenne](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){target=_blank} avec les réponses aux exercices du T.A.F. précédent ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Logique_Booleenne.ipynb){ .md-button .md-button--primary} ;
+
+    - **Poursuivre** l'exploration du module [ipycanvas](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){target=_blank}
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/ipycanvas-Le_BN_pour_dessiner.ipynb){ .md-button .md-button--primary} ;
+
+
 ***
 ## Les 26 et 27/01
 
