@@ -15,6 +15,22 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Du 27/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **faire** les activités du notebook [Les_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Les_tableaux.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Les_tableaux.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+    - **faire** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/TP_matrices.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **transmettre** le notebook [BBCmicrobit-Un_BN_Pour_MicroPython](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+***
 ## Les 26 et 27/01
 
 === "CONTENU DE SÉANCE"
