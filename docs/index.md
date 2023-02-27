@@ -30,6 +30,8 @@
     - **transmettre** le notebook [BBCmicrobit-Un_BN_Pour_MicroPython](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/BBCmicrobit-Un_BN_Pour_MicroPython.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
+    - **découvrir** la dernière mise à jour avec les [Canvas dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
 ***
 ## Les 26 et 27/01
 
