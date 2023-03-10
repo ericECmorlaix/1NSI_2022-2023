@@ -15,6 +15,23 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Du 10/03
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par QCM sur les tableaux
+
+    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/TP_matrices.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+    - Entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
+
+=== "TRAVAIL À FAIRE"
+    
+    - **découvrir** la dernière mise à jour avec les [Canvas dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+
+***
 ## Du 27/02
 
 === "CONTENU DE SÉANCE"
