@@ -20,8 +20,8 @@ nav:
     - Cahier de texte : index.md
     - Présentation NSI : http://si.lycee.ecmorlaix.fr/nsi
     - Projets :
-        - Dessiner ma rue : https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb
         - Nuit du cOde : Nuit_du_cOde.md
+        - Dessiner ma rue : https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Dessiner_ma_rue.ipynb
     
   
     - Histoire de l’informatique : histoire.md
