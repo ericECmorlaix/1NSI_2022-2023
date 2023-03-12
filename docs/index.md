@@ -15,6 +15,28 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 13/03
+
+=== "CONTENU DE SÉANCE"
+
+    - **Faire** les exercices du notebook [Exercices_listes_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Exercices_listes_tableaux.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Exercices_listes_tableaux.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+    - **Finir** les activités du notebook [TP_matrices.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/TP_matrices.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/TP_matrices.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+     - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/OS.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/OS.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
+    
+    - **Découvrir** la dernière mise à jour avec les [Canvas dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+
+***
 ## Du 10/03
 
 === "CONTENU DE SÉANCE"
