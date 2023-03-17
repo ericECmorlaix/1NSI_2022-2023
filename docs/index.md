@@ -15,7 +15,7 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 13/03
+## Du 13 au 24/03
 
 === "CONTENU DE SÉANCE"
 
@@ -27,6 +27,9 @@
 
      - **Répondre** au questionnement du notebook [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/OS.ipynb){target=_blank} ;
     [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/OS.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+    - **Faire** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
 
 
 === "TRAVAIL À FAIRE"
