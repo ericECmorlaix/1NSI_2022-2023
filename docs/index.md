@@ -24,6 +24,41 @@
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
+## Le 07/04
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par QCM portant essentiellement sur les commandes Linux, les tableaux par compréhension, un peu de logique booléenne, de l’algorithmique et de la programmation en Python d’une manière générale ;
+    - Révisions de SNT : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4701-1067253748629066205-653650670442840123/){target=_blank} ;
+    - **Faire** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 1)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Data_CSV-1.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Data_CSV-1.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;    
+    - **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} ;
+    - **Poursuivre** l'entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
+ 
+***
+## Le 03/04
+
+=== "CONTENU DE SÉANCE"
+
+    - Synthèse des notebook [Exercices_listes_tableaux.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Exercices_listes_tableaux.ipynb){target=_blank} ;
+    et [OS.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/OS.ipynb){target=_blank} ;
+
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** l'entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
+    
+    - **Découvrir** la dernière mise à jour avec les [Canvas dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+***
 ## Du 13 au 24/03
 
 === "CONTENU DE SÉANCE"
