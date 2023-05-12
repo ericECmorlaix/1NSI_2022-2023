@@ -24,7 +24,24 @@
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
-## Le 07/04
+## Du 12/05
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Faire** les activités du notebook [Traitement de données en table avec Python (Partie 2)​](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Data_CSV-2.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Data_CSV-2.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **Finir** les activités du site [Dictionnaires](https://mcoilhac.forge.aeif.fr/dictionnaires/dictionnaires/01_quesako/){target=_blank} ;
+    
+    
+=== "TRAVAIL À FAIRE"
+    
+    - **Finir** les activités du notebook [Terminal-Un_BN_pour_la_ligne_de_commande.ipynb](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/Terminal-Un_BN_pour_la_ligne_de_commande.ipynb){ .md-button .md-button--primary} et remettre votre travail par [mail] ;    
+    - **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} ;
+    - **Poursuivre** l'entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
+
+***
+## Du 07/04
 
 === "CONTENU DE SÉANCE"
 
