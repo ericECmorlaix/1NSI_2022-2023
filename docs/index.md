@@ -24,6 +24,22 @@
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
+## Du 01/06
+
+=== "CONTENU DE SÉANCE"
+
+    - **faire** les activités du notebook [IHM_Web_Statique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/IHM_Web_Statique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/IHM_Web_Statique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+    - **faire** les activités du notebook [IHM_Web_Dynamique](https://nbviewer.org/urls/ericecmorlaix.github.io/1NSI_2022-2023/IHM_Web_Dynamique.ipynb){target=_blank} ;
+    [:fontawesome-solid-download:](https://ericecmorlaix.github.io/1NSI_2022-2023/IHM_Web_Dynamique.ipynb){ .md-button .md-button--primary} et rendre compte de votre travail par [mail] ;
+
+=== "TRAVAIL À FAIRE"
+    
+    - **regarder** la vidéo [Notions de web et d'interface homme-machine](https://www.lumni.fr/video/notions-de-web-et-d-interface-homme-machine){target="_blank"} ;   
+    - **s'entrainer** sur le site [Exercices pratiques de NSI](https://e-nsi.gitlab.io/pratique/){target="_blank"} ;
+    - **Poursuivre** l'entrainement pour la [Nuit du cOde 2023](./Nuit_du_cOde)
+
+***
 ## Du 12/05
 
 === "CONTENU DE SÉANCE"
